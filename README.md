@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Victor Ramos ✌️👋
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramos-Victor&layout=compact)]
+![Ramos-Victor Status](https://github-readme-stats.vercel.app/api?username=Ramos-Victor&show_icons=true)
 
 ---
 
