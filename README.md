@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Victor Ramos ✌️👋
 
-![Ramos-Victor Status](https://github-readme-stats.vercel.app/api?username=Ramos-Victor&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramos-Victor)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
