@@ -13,9 +13,8 @@
 - HTML, CSS, JavaScript
 
 ## 📚 Interesses
-- Back-end
-- APIs
-- Banco de dados
+- Estágio 
+- Vagas Junior
 
 ## 🔗 Contato
 - Linkedin: [Victor Ramos](https://www.linkedin.com/in/ramos-victordevjr/)
